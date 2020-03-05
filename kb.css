@@ -162,6 +162,7 @@ for i in (1..9) {
   display: none;
 }
 .CHICKLET .keylabel9, .CHICKLET .keylabel10, .CHICKLET .keylabel11,
+.ROUND .keylabel9, .ROUND .keylabel10, .ROUND .keylabel11,
 .FLAT .keylabel9, .FLAT .keylabel10, .FLAT .keylabel11 {
   display: none;
 }
